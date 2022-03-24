@@ -6,8 +6,7 @@ namespace tpmodul5_1302201130
     {
         static void Main(string[] args)
         {
-
-
+            SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract - Syabila Ilma Elsani");
         }
     }
 }
